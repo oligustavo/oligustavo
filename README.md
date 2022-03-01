@@ -9,7 +9,7 @@ Currently studying:
 - Python 
 - Lua
 - PHP
-- C/C++/C#
+- C
 - GDScript
 
 <div align="center">
