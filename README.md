@@ -2,15 +2,8 @@
 
 I really like pixel art, books and indie games.
 
-Currently studying:
-
-- Java
-- HTML/CSS/JS
-- Python 
-- Lua
-- PHP
-- C
-- GDScript
+- Currently studying Java, HTML, CSS, JS, C, Python, GDScript.
+- In the future I wanna learn Lua, PHP, C++ and C# as well.
 
 <div align="center">
   <a href="https://github.com/oligustavo">
