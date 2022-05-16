@@ -1,9 +1,9 @@
-## Hi there, I'm Gustavo
+## Sup, I'm Gustavo
 
-I really like pixel art, books and indie games.
+I'm really into pixel art, books and indie games.
 
-- Currently studying Java, HTML, CSS, JS, Lua, Python, GDScript.
-- In the future I wanna learn PHP, C/C++ and C# as well.
+- Currently studying Java, HTML, CSS, JS, Lua, Python, and GDScript.
+- In the future I wanna learn Ruby, C/C++ and C# as well.
 
 <div align="center">
   <a href="https://github.com/oligustavo">
